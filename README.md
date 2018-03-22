@@ -9,3 +9,5 @@ This is the simple php script for graph
 *git remote add origin url
 *git push -u origin master
 
+<b>clone this project
+  git clone url
